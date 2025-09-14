@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+npm-debug.log*
+
+# Salida de builds
+/out
+/dist
+/build
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de entorno
+.env
+
+# Cache
+.cache/
